@@ -1,0 +1,14 @@
+{
+    "lengaburu" : {
+        "clear": "Bats",
+        "cloudy": "Bowls",
+        "day": "Bats",
+        "night": "Bowls"
+    },
+    "enchai" : {
+        "clear": "Bowls",
+        "cloudy": "Bats",
+        "day": "Bowls",
+        "night": "Bats"
+    }
+}

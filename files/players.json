@@ -1,0 +1,53 @@
+{
+    "lengaburu": {
+        "lastFour" : [
+            {
+                "name": "Kirat Boli",
+                "probability": [0.05, 0.05, 0.3, 0.25, 0.1, 0.15, 0.01, 0.09],
+                "isStrike": true
+            },
+            {
+                "name": "N.S Nodhi",
+                "probability": [0.10, 0.10, 0.4, 0.2, 0.05, 0.1, 0.01, 0.04],
+                "isStrike": false
+            },
+            {
+                "name": "R Rumrah",
+                "probability": [0.2, 0.2, 0.3, 0.15, 0.05, 0.05, 0.01, 0.04],
+                "isStrike": false
+            },
+            {
+                "name": "Shashi Henra",
+                "probability": [0.3, 0.3, 0.25, 0.05, 0.0, 0.05, 0.01, 0.04],
+                "isStrike": false
+            }
+        ],
+        "superOver": [
+            {
+                "name": "Kirat Boli",
+                "probability": [0.10, 0.05, 0.10, 0.25, 0.1, 0.25, 0.01, 0.14],
+                "isStrike": true
+            },
+            {
+                "name": "N.S Nodhi",
+                "probability": [0.15, 0.05, 0.15, 0.15, 0.1, 0.2, 0.01, 0.19],
+                "isStrike": false
+            }
+        ]
+    },
+    "enchai": {
+        "lastFour": [],
+        "superOver" : [
+            {
+                "name": "DB Vellyers",
+                "probability": [0.10, 0.05, 0.10, 0.25, 0.1, 0.25, 0.01, 0.14],
+                "isStrike": true
+            },
+            {
+                "name": "H Mamla",
+                "probability": [0.15, 0.1, 0.15, 0.15, 0.1, 0.2, 0.01, 0.19],
+                "isStrike": false
+            }
+        ]
+    }
+}
